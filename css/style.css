@@ -401,4 +401,52 @@ body {
   margin-left: 15px;
 }
 
+.services .box {
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 30px;
+  width: 262px;
+  height: 269px;
+  box-shadow: 4px 4px 30px 0 rgba(0, 0, 0, 0.1);
+  background: #fff;
+  display: inline-block;
+  text-align: center;
+  position: relative;
+}
+.services .box .monitor {
+  margin-top: 35px;
+  margin-bottom: 32px;
+}
+.services .box .monitor-mini {
+  position: absolute;
+  left: 112px;
+  top: 66px;
+}
+.services .box .red {
+  margin-top: 35px;
+  margin-bottom: 32px;
+}
+.services .box .settings {
+  position: absolute;
+  left: 109px;
+  top: 64px;
+}
+.services .box .green {
+  margin-top: 35px;
+  margin-bottom: 32px;
+}
+.services .box .pen-tool {
+  position: absolute;
+  left: 109px;
+  top: 64px;
+}
+.services .box .orange {
+  margin-top: 35px;
+  margin-bottom: 32px;
+}
+.services .box .tv {
+  position: absolute;
+  left: 109px;
+  top: 61px;
+}
+
 /*# sourceMappingURL=style.css.map */

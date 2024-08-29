@@ -396,5 +396,53 @@ h2{
     }
   }
 }
-
+.services {
+  .box{
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 30px;
+    width: 262px;
+    height: 269px;
+    box-shadow: 4px 4px 30px 0 rgba(0, 0, 0, 0.1);
+    background: #fff;
+    display: inline-block;
+    text-align: center;
+    position: relative;
+    .monitor{
+      margin-top: 35px;
+      margin-bottom: 32px;
+    }
+    .monitor-mini{
+      position: absolute;
+      left: 112px;
+      top: 66px;
+    }
+    .red{
+      margin-top: 35px;
+      margin-bottom: 32px;
+    }
+    .settings{
+      position: absolute;
+      left: 109px;
+      top: 64px;
+    }
+    .green{
+      margin-top: 35px;
+      margin-bottom: 32px;
+    }
+    .pen-tool{
+      position: absolute;
+      left: 109px;
+      top: 64px;
+    }
+    .orange{
+      margin-top: 35px;
+      margin-bottom: 32px;
+    }
+    .tv{
+      position: absolute;
+      left: 109px;
+      top: 61px;
+    }
+  }
+}
 
